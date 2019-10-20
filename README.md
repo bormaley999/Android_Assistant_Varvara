@@ -9,3 +9,6 @@ Hello! This is simple chatbot project I created based on Skillbox 3 days intense
 
 This my first experimental project in Java. The task of the course was to develop a number of answers you saw above. 
 Enjoy and have fun speaking to it.
+
+### Repository structure
+The code for the APP and the Voice Assistant (Varvara) is located: /app/src/main/java/com/example/android_assistant/
