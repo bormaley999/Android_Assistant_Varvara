@@ -49,20 +49,28 @@ public class VA {
             answers.add("Today is:" + date);
         }
 
-        // "Is there life on mars?", “Who's the president of Russia” and “What is the color
-        // of the sky?”.
+        // "Is there life on mars?", “Do you love video games?” and “What is the color
+        // of the sky?”, "Do you like to read books?"
 
         if (question.contains("is there life on mars")) {
             answers.add("Maybe! You could probably ask Elon Musk.");
         }
 
-        if (question.contains("who is the president of russia")) {
-            answers.add("I don't know.");
+        if (question.contains("do you love video games")) {
+            answers.add("Sure, I do! For example, for favorite ones are Overwatch, StarCraft, Half-Life and the Witcher.");
         }
 
         if (question.contains("what is the color of the sky")) {
             answers.add("Just look up!");
+
         }
+
+        if (question.contains("do you like to read books")) {
+            answers.add("Yep. I'm a fan of Arthur Clark and Issac Asimov." +
+                    "Oh, and, I've got to tell that HAL-9000 is my hero. LOL.");
+
+        }
+
 
 
 
