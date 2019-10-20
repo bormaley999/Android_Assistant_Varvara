@@ -11,4 +11,4 @@ This my first experimental project in Java. The task of the course was to develo
 Enjoy and have fun speaking to it.
 
 ### Repository structure
-The code for the APP and the Voice Assistant (Varvara) is located: /app/src/main/java/com/example/android_assistant/
+The code for the APP and the Voice Assistant (Varvara) is located: app -> src -> main -> android_assistant 
